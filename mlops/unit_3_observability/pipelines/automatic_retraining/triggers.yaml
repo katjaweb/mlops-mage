@@ -12,6 +12,6 @@ triggers:
     skip_if_previous_running: true
   sla: null
   start_time: 2024-05-16 07:00:00+00:00
-  status: active
-  token: null
+  status: inactive
+  token: 3e1f85cfcffd493e9a1945a3dcc294d2
   variables: {}
