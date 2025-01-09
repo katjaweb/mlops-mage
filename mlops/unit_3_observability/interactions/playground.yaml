@@ -30,11 +30,11 @@ inputs:
       multiline: null
     type: text_field
 layout:
-- - variable: DOLocationID
+- - variable: PULocationID
+    width: 1
+  - variable: DOLocationID
     width: 1
 - - variable: trip_distance
-    width: 1
-  - variable: PULocationID
     width: 1
 variables:
   DOLocationID:
